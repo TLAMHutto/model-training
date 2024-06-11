@@ -1,0 +1,3 @@
+Use Case: Time series prediction and analysis.
+Strengths: Good at capturing temporal dependencies in sequential data, such as stock prices and trading volumes.
+Strengths: Effective in identifying spatial hierarchies and patterns within data.

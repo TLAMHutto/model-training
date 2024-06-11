@@ -1,0 +1,31 @@
+Use Case: Pattern recognition in financial charts and technical indicators. 
+
+# dataset of images organized into training and validation directories, with subdirectories for each class.
+dataset/
+    train/
+        cats/
+            cat001.jpg
+            cat002.jpg
+            ...
+        dogs/
+            dog001.jpg
+            dog002.jpg
+            ...
+    validation/
+        cats/
+            cat101.jpg
+            cat102.jpg
+            ...
+        dogs/
+            dog101.jpg
+            dog102.jpg
+            ...
+    test/
+        cats/
+            cat201.jpg
+            cat202.jpg
+            ...
+        dogs/
+            dog201.jpg
+            dog202.jpg
+            ...
